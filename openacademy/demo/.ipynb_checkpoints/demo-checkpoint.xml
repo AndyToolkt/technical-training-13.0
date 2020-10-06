@@ -1,19 +1,21 @@
 <odoo>
 
         <record model="openacademy.course" id="course0">
-            <field name="name">Course 0</field>
-            <field name="description">Course 0's description
-
-Can have multiple lines
+            <field name="name">Cloud Strife</field>
+            <field name="description">A mercenary, Cloud Strife is a fictional character and the main protagonist of Square's 1997 role-playing video game Final Fantasy VII, its high-definition remake, and several of its sequels and spinoffs.
             </field>
         </record>
         <record model="openacademy.course" id="course1">
-            <field name="name">Course 1</field>
-            <!-- no description for this one -->
+            <field name="name">Cecil Harvey</field>
+            <field name="description">Cecil Harvey is the main protagonist of Final Fantasy IV, who also appears in the sequel Final Fantasy IV: The After Years, and the interquel Final Fantasy IV -Interlude- that bridges the gap between the two games.</field>
+           
         </record>
+    
         <record model="openacademy.course" id="course2">
-            <field name="name">Course 2</field>
-            <field name="description">Course 2's description</field>
+            <field name="name">Squall Leonhart</field>
+            <field name="description">Squall Leonhart is a fictional character and the primary protagonist of Final Fantasy VIII, a role-playing video game that was produced by Square. In Final Fantasy VIII, Squall is a 17-year-old student at Balamb Garden, a prestigious military academy for elite mercenaries. He is 177 cm tall.
+            </field>
         </record>
+       
 
 </odoo>
